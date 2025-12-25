@@ -1,0 +1,19 @@
+# Spotify API
+spotipy==2.23.0
+
+# YouTube API
+google-api-python-client==2.125.0
+google-auth-oauthlib==1.2.0
+google-auth-httplib2==0.2.0
+scrapetube==2.6.0  # For scraping YouTube data
+
+# Data processing
+rapidfuzz==3.6.1  # For matching track names
+python-dotenv==1.0.0  # For .env files
+isodate==0.6.1  # For parsing YouTube durations
+
+# YouTube metadata (alternative to API)
+pytube==15.0.0
+
+# HTTP requests
+requests==2.31.0

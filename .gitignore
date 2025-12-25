@@ -1,0 +1,26 @@
+# ---------- Secrets ----------
+.env
+.env.*
+browser.json
+
+# ---------- Databases ----------
+*.db
+*.sqlite
+*.sqlite3
+
+# ---------- Raw data ----------
+data/raw/
+data/scrapetube/
+data/pytube/
+
+# ---------- Python ----------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# ---------- OS ----------
+.DS_Store
+Thumbs.db
